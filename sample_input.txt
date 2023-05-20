@@ -1,0 +1,13 @@
+example 1: 
+z = 40x + 80y
+constraints: 
+    2x + 3y <= 48
+    x <= 15
+    y <= 10
+
+example 2: 
+z =  15x + 10y
+constraints: 
+    4x + 6y <= 360
+    3x <= 180
+    5y <= 200
